@@ -1,1 +1,1 @@
-This conflicts with another branch.
+This might differ from another branch.
